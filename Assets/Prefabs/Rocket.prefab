@@ -515,8 +515,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f06370fe0213b94fa3ee9c62cf34993, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rcsThrust: 250
-  mianThrust: 1000
+  rcsThrust: 150
+  mianThrust: 700
 --- !u!135 &135057845156405886
 SphereCollider:
   m_ObjectHideFlags: 1
